@@ -1,0 +1,123 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+
+}
+
+.top-section {
+    display: flex;
+}
+
+.h1 {
+    font-size: 60px;
+    font-weight: 900;
+    color: rgb(103, 101, 101);
+
+
+}
+
+
+
+h2 {
+    font-weight: 100px;
+    font-size: 40px;
+    color: rgb(101, 99, 99);
+}
+
+.org {
+    color: orange;
+}
+
+.diet {
+    width: 40%;
+    margin-top: 5%;
+    padding-left: 6%;
+    padding-right: 5%;
+}
+
+.diet p {
+    color: rgb(129, 127, 127);
+    font-size: 20px;
+    margin-bottom: 70px;
+}
+
+.btn {
+    text-decoration: none;
+    font-size: 20px;
+    background-image: linear-gradient(orangered, tomato);
+    color: white;
+    padding: 20px 40px;
+    border-radius: 40px;
+}
+
+.img {
+    background-image: url(shapes/Frame\ 58.jpg);
+    background-position: right;
+    margin-left: 40px;
+    padding-left: 7%;
+}
+
+.recipe {
+    margin: 0 auto;
+    width: 40%;
+    text-align: center;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+.title {
+    box-shadow: 5px 8px 40px #cdcbcb;
+    width: 40%;
+    padding: 30px;
+    margin-left: 50px;
+    margin-left: 50px;
+    border-radius: 20px;
+    margin-bottom: 100px
+}
+
+.title p {
+    font-size: 20px;
+}
+
+.last {
+    box-shadow: 5px 8px 40px #cdcbcb;
+    width: 88%;
+    padding: 20px;
+    margin-left: 100px;
+    margin-left: 50px;
+    border-radius: 20px;
+
+}
+
+.last h1 {
+    font-size: 50px;
+}
+
+.div {
+    margin-left: 200px;
+    padding-left: 20px;
+
+}
+
+.footer {
+    background-color: black;
+    text-align: center;
+    margin-top: 100px;
+    padding: 40px;
+
+}
+
+.orge {
+    color: rgb(239, 106, 58);
+}
+
+.footer h2 {
+    font-size: 30px;
+}
+
+
+.footer p {
+    color: grey;
+}
